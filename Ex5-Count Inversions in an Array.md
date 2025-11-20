@@ -2,7 +2,6 @@
 ## DATE: 20/08/2025
 ## AIM:
 To write a Java program  to Count the number of inversions in an array where inversion is defined as: arr[i] > arr[j] and i < j
-
 ## Algorithm
 1.Read the size of the array n and input all elements into the array arr.
 
